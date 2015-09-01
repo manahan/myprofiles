@@ -1,3 +1,5 @@
-emacs config  
+# Various Proflies and Configurations
 
-heavily derived from flyingmachine/emacs-for-clojure
+## emacs config 
+Heavily derived from https://github.com/flyingmachine/emacs-for-clojure
+
