@@ -3,3 +3,10 @@
 .\#*
 elpa
 .DS_Store
+.recentf
+.smex-items
+cider-history
+eshell
+places
+projectile-bookmarks.eld
+
