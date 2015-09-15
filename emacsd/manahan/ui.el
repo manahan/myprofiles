@@ -15,10 +15,10 @@
 (load-theme 'zenburn t)
 
 ;;; increase the font size for trifocals :-)
-(set-face-attribute 'default nil :height 180)
+;(set-face-attribute 'default Menlo :height 180)
 
 ;;; set initial frame size
-(setq initial-frame-alist '((top . 0) (left . 0) (width . 177) (height . 53)))
+(setq initial-frame-alist '((top . 0) (left . 0) (width . 140) (height . 35)))
 
 ;; Don't show native OS scroll bars for buffers because they're redundant
 (when (fboundp 'scroll-bar-mode)
